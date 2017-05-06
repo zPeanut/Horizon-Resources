@@ -1,1 +1,17 @@
+#name#
+
+#renamed#Horizon
+#added#VanillaSpeed
+#added#AirMove
+#added#AntiHunger
+#added#Freecam
+#fixed#the MainMenu
+#added#Value System
+#added#BindScreen
+#added#MainMenu Subtitle
+#added#GuiChangelog Screen
+#added#ServerLagger
+#fixed#NameTags
+#added#Friends Command (.friend)
+#removed# .find and .tp (Temporarily due to Bugs)
 

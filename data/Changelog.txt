@@ -5,6 +5,8 @@
 #remade#OutlineESP
 §5Renamed §7- VanillaSpeed to Speed
 §5Renamed §7- OutlineESP to ESP
+#remade#ChestESP
+#fixed#Friends
 
 
 

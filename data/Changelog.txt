@@ -1,4 +1,4 @@
-#name# (The Bugfix Update)
+#name# (The Bugfix Update) - 7.05.2017
 
 #fixed#Nametags (Normal ones)
 #fixed#Nametags wont show blue when friended

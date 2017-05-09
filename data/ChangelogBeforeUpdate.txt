@@ -2,4 +2,4 @@
 
 #added#AutoTotem
 #added#NoHurtCam
-
+#fixed#Button Position on MainMenu

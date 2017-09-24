@@ -3,3 +3,6 @@
 #added#AutoTotem
 #added#NoHurtCam
 #fixed#Button Position on MainMenu
+#converted#1.12.2
+#added#ClickGUI
+#fixed#Bugs

@@ -4,7 +4,7 @@
 
 #added#Client Base
 #added#CommandSystem
-#addded#Hud
+#addd#Hud
 
 §7Horizon b2:
 

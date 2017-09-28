@@ -1,0 +1,19 @@
+§7Version History
+
+§7Horizon b1:
+
+#added#Client Base
+#added#CommandSystem
+#addded#Hud
+
+§7Horizon b2:
+
+#added#Events
+#added#AirJump
+#added#Brightness
+#added#ESP
+#added#FastPlace
+#added#Flight
+#added#NoClip
+#added#NoFall
+#added#Sprint

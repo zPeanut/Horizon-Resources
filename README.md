@@ -1,2 +1,2 @@
-# Horizon-Resources
-Resources used in the Horizon Hacked Client.
+# Resources
+resources used in various of my utility mods

@@ -1,0 +1,13 @@
+- add ttfchat module
+- add panic module 
+- add nameprotect module
+- add tracers module
+- add murdermystery module
+- add pingspoof module
+- add visible setting to clickgui (whether they show up in the arraylist or not)
+- add murdermystery setting to nametags
+- add random ms setting to triggerbot and autoclicker
+- add onclick setting to aimbot
+- move nospeedfov to render category
+- remove esp modes (not working)
+- fix arraylist massively lagging when many modules were activated
